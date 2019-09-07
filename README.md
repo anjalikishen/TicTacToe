@@ -6,7 +6,6 @@ Tic-tac-toe game is for two players, X and O, who take turns marking the spaces 
 ## Getting started ##
 ### Prerequisites ###
 * JRE 1.6
+* JDK 1.6
 
-# Gradle #
-    gradle installApp
-    ./build/install/tictactoe-java/bin/tictactoe-java
+
