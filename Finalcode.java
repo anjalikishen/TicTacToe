@@ -484,7 +484,3 @@ class Tgame extends JFrame
 	 jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 }
-
-/* SAVE    ----  Tgame.java
-   COMPILE ----  javac Tgame.java
-   RUN     ----  java Tgame         */
